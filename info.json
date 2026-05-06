@@ -1,6 +1,5 @@
 {
     "name": "Seatbelt",
-    "description": "",
     "version": "0.0.1",
     "uuid": "3fdec96c-08be-48dd-a016-0d585e5b1208",
     "command": "seatbelt",
